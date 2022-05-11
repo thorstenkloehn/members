@@ -1,1 +1,6 @@
-# mitgliederverwaltung
+# Datenbank Erstellen mit Postsqle
+
+## PostgreSQL
+
+
+
